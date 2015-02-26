@@ -10,8 +10,8 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 درگاه پرداخت زرین پال برای افزونه مدیریت اعتبار کاربران وردپرس
 
 == Description ==
-**myCRED Zarinpal : **
-This plugin extends the mycred and its addons with ZarinPal Gateway
+**myCRED Zarinpal**
+: This plugin extends the mycred and its addons with ZarinPal Gateway
 
 = Features =
 * First Iranian Payment Gateway for myCred (free)
