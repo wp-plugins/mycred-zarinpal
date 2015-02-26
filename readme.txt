@@ -7,7 +7,7 @@ Tested up to: 4.1
 Stable tag: 1.0.0
 License: GPL 2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
-درگاه پرداخت زرین پال برای افزونه مدیریت اعتبار کاربران myCred وردپرس
+درگاه پرداخت زرین پال برای افزونه مدیریت اعتبار کاربران وردپرس
 
 == Description ==
 **myCRED Zarinpal : **
@@ -18,7 +18,7 @@ This plugin extends the mycred and its addons with ZarinPal Gateway
 * Safe ...
 
 = Persian Description =
-* درگاه پرداخت زرین پال برای افزونه مدیریت اعتبار کاربران myCred وردپرس
+* درگاه پرداخت زرین پال برای افزونه مدیریت اعتبار کاربران وردپرس
 * تاپیک پشتیبانی در انجمن پرشین اسکریپت است ...
 ** برای دانلود هر دو نسخه وب گیت و زرین گیت به آزمایشگاه زرین پال مراجعه نمایید .. **
 
