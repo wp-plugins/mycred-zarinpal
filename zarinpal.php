@@ -1,6 +1,7 @@
 <?php
 /**
 * Plugin Name: درگاه زرین پال myCRED
+* Plugin URI: https://wordpress.org/plugins/mycred-zarinpal/
 * Description: این افزونه درگاه زرین پال را به افزونه myCRED اضافه میکند .
 * Version: 1.0.0
 * Author: حنان ابراهیمی ستوده
