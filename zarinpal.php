@@ -255,7 +255,7 @@ function mycred_zarinpal_loader(){
 						$pending_post_id = sanitize_key( $_REQUEST['payment-id'] );
 						$pending_payment = $this->get_pending_payment( $pending_post_id );
 						$cost = $pending_payment['cost'];
-						if ( $pending_payment !== false ) {
+						if ( $pending_payment != false ) {
 					
 							$MerchantID = $this->prefs['zarinpal_merchant'];  
 							$Amount = ($this->prefs['currency'] == 'تومان') ? $cost : ($cost/10);
